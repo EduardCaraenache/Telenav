@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-Black.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-BlackItalic.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-Bold.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-BoldItalic.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-ExtraBold.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-ExtraBoldItalic.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-ExtraLight.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-ExtraLightItalic.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-Italic.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-Light.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-LightItalic.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-Medium.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-MediumItalic.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-Regular.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-SemiBold.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-SemiBoldItalic.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-Thin.ttf</file>
+        <file>fonts/NotoSansDisplay/NotoSansDisplay-ThinItalic.ttf</file>
+    </qresource>
+</RCC>

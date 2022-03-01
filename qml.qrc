@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/BunBtn.qml</file>
+        <file>qml/images/ico-button-action-bar-end.png</file>
+        <file>qml/images/ico-button-action-bar-end@3x.png</file>
+        <file>qml/HomeBtn.qml</file>
+        <file>qml/images/ico-system-bar-home@3x.png</file>
+        <file>qml/RadioBtn.qml</file>
+        <file>qml/images/ico-system-bar-radio@3x.png</file>
+        <file>qml/MusicBtn.qml</file>
+        <file>qml/images/ico-system-bar-music@3x.png</file>
+        <file>qml/DirectionBtn.qml</file>
+        <file>qml/images/ico-system-bar-car@3x.png</file>
+        <file>qml/images/ico-system-bar-hvac@3x.png</file>
+        <file>qml/images/ico-system-bar-nav@3x.png</file>
+        <file>qml/images/ico-system-bar-phone@3x.png</file>
+        <file>qml/PhoneBtn.qml</file>
+        <file>qml/HvacBtn.qml</file>
+        <file>qml/CarBtn.qml</file>
+        <file>qml/images/system-bar-top@3x.png</file>
+        <file>qml/SearchBar.qml</file>
+        <file>qml/images/ico-floating-bar-search@3x.png</file>
+        <file>qml/PhoneImage.qml</file>
+        <file>qml/RecentsBtn.qml</file>
+        <file>qml/SavedBtn.qml</file>
+        <file>qml/StationsBtn.qml</file>
+        <file>qml/FoodBtn.qml</file>
+        <file>qml/images/ico-search-food@3x.png</file>
+        <file>qml/images/ico-search-gas-stations@3x.png</file>
+        <file>qml/images/ico-search-recents@3x.png</file>
+        <file>qml/images/ico-search-saved@3x.png</file>
+        <file>qml/SlidersOwn.qml</file>
+        <file>qml/path/to/my/kb/layouts/en_GB/dialpad.qml</file>
+        <file>qml/path/to/my/kb/layouts/en_GB/digits.qml</file>
+        <file>qml/path/to/my/kb/layouts/en_GB/handwriting.qml</file>
+        <file>qml/path/to/my/kb/layouts/en_GB/main.qml</file>
+        <file>qml/path/to/my/kb/layouts/en_GB/numbers.qml</file>
+        <file>qml/path/to/my/kb/layouts/en_GB/symbols.qml</file>
+    </qresource>
+</RCC>
